@@ -37,4 +37,4 @@ Dopa uses a number of open source projects to work properly:
 - Upload and download for files
 
 
-# This website is built by Vince Ling as the final project at Coding Dojo Python stack.For bugs for suggestion, email: ldkxnb@gmail.com
+# This website is built by Jia Zhang as the final project at Coding Dojo Python stack.For bugs for suggestion, email: jzhang50@usc.edu
