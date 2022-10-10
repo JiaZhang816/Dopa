@@ -1,4 +1,4 @@
-# Dopa
+# Secretspace
 ## _An online safe storage place for your info_
 
 Dopa is a flask-powered full-stack website that allows users to create/update/delete/search/download
@@ -6,9 +6,9 @@ for notes/accounts/links/images/youtube videos/files and share to their friednds
 
 The website is fulling deployed at:
 
-# [Dopa](https://breakdance.github.io/breakdance/) (www.dopadu.com)
+# [Secretspace](https://breakdance.github.io/breakdance/) (www.secretspace.com)
 
-See demo without registration by using email:guest@dopa, password:123
+See demo without registration by using email:guest@secretspace, password:123
 
 ## Features
 
